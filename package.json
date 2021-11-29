@@ -7,9 +7,10 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@tensorflow-models/coco-ssd": "^2.2.2",
     "@tensorflow/tfjs-backend-cpu": "^3.11.0",
     "@tensorflow/tfjs-backend-webgl": "^3.11.0",
-    "@tensorflow-models/coco-ssd": "^2.2.2",
+    "@tensorflow/tfjs-core": "^3.11.0",
     "@vueuse/core": "^6.6.1",
     "d3-shape": "^3.0.1",
     "just-standard-deviation": "^1.0.0",
